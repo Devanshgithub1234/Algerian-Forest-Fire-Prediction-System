@@ -1,1 +1,1 @@
-# Algerian-Forest-Fire-Analysis
+# Algerian-Forest-Fire-Prediction-and-Analysis
