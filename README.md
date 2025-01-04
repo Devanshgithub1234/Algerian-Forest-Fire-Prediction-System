@@ -1,5 +1,16 @@
-# Algerian-Forest-Fire-Prediction-System-and-Analysis
-Developed a linear regression model for Fire Prediction in Algerian Regions , achieving an accuracy of 98%
-The Dataset is taken from Kaggle
-I have done all the EDA process from the Scratch and then Provide Training to the Model
-Tools and Technologies : Python, Pandas, Matplotlib, Seaborn, Numpy , Linear Regression , Jupyter Notebook
+# lab-flask
+
+<!-- ![image](https://user-images.githubusercontent.com/115451707/196919992-edcfea8b-e3f6-4f35-9398-43be66b5622d.png) -->
+
+
+To run flask application 
+
+```
+python app.py
+```
+
+
+To access your flask application open new tab in and paste the url:
+```
+https://{your_url}.pwskills.app:5000/
+```
